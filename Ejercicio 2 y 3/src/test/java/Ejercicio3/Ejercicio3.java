@@ -71,7 +71,6 @@ public class Ejercicio3 {
         for (Map<String, Object> pet : petInfo) {
             String id = pet.get("id").toString();
             String name = (String) pet.get("name");
-            String status = (String) pet.get("status");
 
             System.out.println("Id: " + id + ", Nombre de la mascota: " + name);
         }
