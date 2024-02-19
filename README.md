@@ -1,4 +1,4 @@
-# TestingEjercicios
+# TestingEjercicios 📋
 Exercises related to functional and automated testing.
 
 ### __Exercise 1.__ Bug Hunting and Reporting:
